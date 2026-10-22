@@ -281,3 +281,5 @@ UC-08 sigue retirado. Su código no se reutiliza. UC-22 a UC-30 no forman parte 
 El modelo acumulado contiene dos vistas, siete actores y veinticinco casos de uso vigentes. Los casos de E1 conservan sus identificadores. Las siguientes iteraciones mantendrán los elementos que conserven el mismo objetivo.
 
 Git conserva las revisiones registradas del modelo y sus imágenes. La evaluación de cada iteración identificará el commit de su estado revisado, conforme a la [guía de modelos](README.md). Cerrar una iteración no declara automáticamente una línea base.
+
+Se añadió contenido en los subapartados 6.1 y 6.2 y no se empleo la IA, además de que no se cubrió las reglas.
